@@ -1,0 +1,8 @@
+.bordered{
+    border:2px solid red;
+}
+.toggle-btn{
+    border:1px solid #888 !important;
+    border-radius:5px !important;
+    margin-right: 8px !important;
+}
